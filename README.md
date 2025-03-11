@@ -10,9 +10,8 @@ This project is part of the COMP 3322 Software Engineering course, focusing on l
 - Random greeting selection
 - Demonstrates Git branching and merging
 
-## **Installation Instructions**
-1. **Clone the Repository**  
-   ```sh
-  git clone https://github.com/your-username/SE-assignment2.git
-  cd SE-assignment2
+#Installation Instructions
+Clone the Repository
+git clone https://github.com/your-username/SE-assignment2.git
+cd SE-assignment2
    
