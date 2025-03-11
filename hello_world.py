@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-name = input("Enter your name: ")
-print(f"Hello, {name}!")
+import random
 
-=======
-name = input("Enter your name: ").strip()
-if not name:
-	name = "World"
-print(f"Hello, {name}!")
->>>>>>> 5397ac74e238be6b6c0e6b8c923f012ee3ca8545
+greetings = ["Hello", "Hi", "Hey", "Greetings", "Salutations"]
+name = input("Enter your name: ").strip() or "World"
+print(f"{random.choice(greetings)}, {name}!")
+
