@@ -12,6 +12,6 @@ This project is part of the COMP 3322 Software Engineering course, focusing on l
 
 #Installation Instructions
 Clone the Repository
-git clone https://github.com/your-username/SE-assignment2.git
+`sh git clone https://github.com/your-username/SE-assignment2.git
 cd SE-assignment2
    
